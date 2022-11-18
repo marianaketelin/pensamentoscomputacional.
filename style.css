@@ -1,5 +1,5 @@
 :root {
-    --primeira-cor: "#FFEDE1";
+    --primeira-cor: "#984F75";
     --segunda-cor: "#C1997F";
 
     --borda:"#D14C69";
@@ -20,7 +20,7 @@ body {
 }
 
 h1 {
-    color: rgb(185, 7, 96);
+    color: var(--primeira-cor);
 }
 
 .conteudo {
